@@ -62,4 +62,14 @@ public class Solution {
         }
         return check;
     }
+
+    //344. Reverse String
+    public String reverseString(String s) {
+        String[] str = s.split("");
+        StringBuilder stringBuilder = new StringBuilder();
+        for (int i = str.length; i >= 0; i--) {
+            stringBuilder.append(str[i]);
+        }
+        return stringBuilder.toString();
+    }
 }
