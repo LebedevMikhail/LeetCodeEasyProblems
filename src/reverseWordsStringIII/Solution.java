@@ -1,4 +1,4 @@
-package reverseWordsinaStringIII;
+package reverseWordsStringIII;
 
 public class Solution {
 
