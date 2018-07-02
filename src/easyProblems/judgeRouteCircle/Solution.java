@@ -1,4 +1,4 @@
-package EasyProblems.judgeRouteCircle;
+package easyProblems.judgeRouteCircle;
 
 public class Solution {
 

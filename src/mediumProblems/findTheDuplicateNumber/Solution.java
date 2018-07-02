@@ -1,4 +1,4 @@
-package MediumProblems.findTheDuplicateNumber;
+package mediumProblems.findTheDuplicateNumber;
 
 import java.util.HashSet;
 import java.util.Set;

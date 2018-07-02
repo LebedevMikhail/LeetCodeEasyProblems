@@ -1,4 +1,4 @@
-package EasyProblems.missingNumber;
+package easyProblems.missingNumber;
 
 import java.util.Arrays;
 import java.util.HashSet;

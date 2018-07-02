@@ -1,4 +1,4 @@
-package EasyProblems.reverseString;
+package easyProblems.reverseString;
 
 public class Solution {
 

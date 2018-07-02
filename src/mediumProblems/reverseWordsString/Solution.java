@@ -1,4 +1,4 @@
-package MediumProblems.ReverseWordsString;
+package mediumProblems.reverseWordsString;
 
 
 public class Solution {
