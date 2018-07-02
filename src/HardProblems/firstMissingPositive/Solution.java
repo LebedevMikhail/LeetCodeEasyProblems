@@ -1,4 +1,4 @@
-package firstMissingPositive;
+package HardProblems.firstMissingPositive;
 
 import java.util.*;
 

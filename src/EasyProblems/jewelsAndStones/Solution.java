@@ -1,4 +1,4 @@
-package jewelsAndStones;
+package EasyProblems.jewelsAndStones;
 
 public class Solution {
 

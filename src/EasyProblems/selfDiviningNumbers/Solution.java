@@ -1,4 +1,4 @@
-package selfDiviningNumbers;
+package EasyProblems.selfDiviningNumbers;
 
 import java.util.ArrayList;
 import java.util.List;
